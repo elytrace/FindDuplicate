@@ -1,0 +1,8 @@
+D:\A41174\FindDuplicate\FindDuplicate\bin\Debug\FindDuplicate.exe.config
+D:\A41174\FindDuplicate\FindDuplicate\bin\Debug\FindDuplicate.exe
+D:\A41174\FindDuplicate\FindDuplicate\bin\Debug\FindDuplicate.pdb
+D:\A41174\FindDuplicate\FindDuplicate\obj\Debug\FindDuplicate.csprojResolveAssemblyReference.cache
+D:\A41174\FindDuplicate\FindDuplicate\obj\Debug\FindDuplicate.Properties.Resources.resources
+D:\A41174\FindDuplicate\FindDuplicate\obj\Debug\FindDuplicate.csproj.GenerateResource.Cache
+D:\A41174\FindDuplicate\FindDuplicate\obj\Debug\FindDuplicate.exe
+D:\A41174\FindDuplicate\FindDuplicate\obj\Debug\FindDuplicate.pdb
